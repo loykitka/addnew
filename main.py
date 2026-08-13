@@ -5,7 +5,7 @@ import threading
 import requests
 from telebot import types
 
-TOKEN = "8989963543:AAGD1t0J48vdPmEfsu_r34A5AO9oimCSzmY"  # Замените на свой токен
+TOKEN = "8603057361:AAGCn2s9eUHfbm_I-c9lj8aBgvxZ4489jBY"  # Замените на свой токен
 bot = telebot.TeleBot(TOKEN)
 
 # ---------- Работа с базой данных ----------
